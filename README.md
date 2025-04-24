@@ -27,6 +27,8 @@ Next-Gen Learning Management System with Generative AI Content Creation
 ![WhatsApp Image 2025-04-15 at 11 03 44_1806e27a](https://github.com/user-attachments/assets/94c00ae4-fa66-42a9-9b22-9b3eec855537)
 
  Use Cases
+
+ 
 🏫 Schools and Colleges creating AI-powered e-learning
 
 💼 Corporate training with auto-generated learning paths
