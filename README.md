@@ -1,5 +1,6 @@
 # 🎓 AI-Powered LMS Platform  (for help : 9113674413)
 quick demo at: https://easy-study-inky.vercel.app/dashboard [or] https://ai-educator-course-gen.vercel.app/
+
 Next-Gen Learning Management System with Generative AI Content Creation
 
 ## 🚀 Overview
